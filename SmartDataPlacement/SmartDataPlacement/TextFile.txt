@@ -1,0 +1,10 @@
+﻿{
+  "from":"0",
+  "size": 20,
+  "query": {
+  "query_string" : {
+          "query": "(property.name:*Curry OR Riatta* OR property.streetAddress:*Curry OR Riatta*) AND (property.market:Abilene)"
+        }
+        
+  }
+}

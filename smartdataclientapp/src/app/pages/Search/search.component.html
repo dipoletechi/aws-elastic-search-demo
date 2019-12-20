@@ -1,0 +1,42 @@
+<div class="container mt-5">
+  <h1>SmartDataApartment Search Panel</h1>
+
+
+<div class="row">
+<div class="col-lg-2">
+  <label>Data Size</label>
+  <input name="numberofrecords" type="number" (input)="size = $event.target.value" [value]="size" placeholder="Number of records" /></div>
+<div class="col-lg-2">
+    <label>Search Keyword</label>
+  <input name="keyword" type="text" (input)="keyword = $event.target.value" [value]="keyword" placeholder="Search Keyword" /></div>
+<div class="col-lg-3">
+    <label>Market</label>
+    <br>
+  <input type="text" name="market" (input)="market = $event.target.value" [value]="market" placeholder="Market" /></div>
+<div class="col-lg-2">
+  <br>
+  <button class="btn btn-primary mb-5" (click)="pingApi()">Search</button></div>
+</div>
+<p *ngIf="isloading">Loading please wait..</p>
+
+  <div class="result-block-container" *ngIf="responseJson">
+    <div class="result-block" [ngClass]="{ show: !!responseJson }">
+      <h6 class="muted">Result</h6>
+
+
+      <table class="table" id="spreadsheet" *ngIf="!isloading">
+        <thead>
+          <th>Title</th>
+          <th>Type</th>
+        </thead>
+        <tr *ngFor="let row of responseJson">
+            <td class="row-number-column">{{row.title}}<br>
+            <b>{{row.streetAddress}}</b>
+            </td>
+            <td class="row-number-column" *ngIf="row.searchResultType==0">Management</td>
+            <td class="row-number-column" *ngIf="row.searchResultType==1">Property</td>
+        </tr>
+      </table>
+    </div>
+  </div>
+</div>

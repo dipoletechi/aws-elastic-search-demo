@@ -1,0 +1,8 @@
+{ "index": { "_index": "managements", "_type": "management", "_id": "24136" } }
+{"mgmt":{"mgmtID":24136,"name":"Greystar","market":"DFW","state":"TX"}}
+{ "index": { "_index": "managements", "_type": "management", "_id": "24235" } }
+{"mgmt":{"mgmtID":24235,"name":"BH Management","market":"Abilene","state":"TX"}}
+{ "index": { "_index": "managements", "_type": "management", "_id": "24736" } }
+{"mgmt":{"mgmtID":24736,"name":"Privately Owned and Managed","market":"Amarillo","state":"TX"}}
+{ "index": { "_index": "managements", "_type": "management", "_id": "28886" } }
+{"mgmt":{"mgmtID":28886,"name":"NAI Black Properties","market":"Amarillo","state":"TX"}}

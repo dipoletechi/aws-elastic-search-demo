@@ -1,0 +1,13 @@
+D:\WorkShop\Projects\smartdataapartmenttest\SmartDataPlacement\SmartDataPlacement\bin\Debug\netcoreapp2.1\SmartDataPlacement.deps.json
+D:\WorkShop\Projects\smartdataapartmenttest\SmartDataPlacement\SmartDataPlacement\bin\Debug\netcoreapp2.1\SmartDataPlacement.runtimeconfig.json
+D:\WorkShop\Projects\smartdataapartmenttest\SmartDataPlacement\SmartDataPlacement\bin\Debug\netcoreapp2.1\SmartDataPlacement.runtimeconfig.dev.json
+D:\WorkShop\Projects\smartdataapartmenttest\SmartDataPlacement\SmartDataPlacement\bin\Debug\netcoreapp2.1\SmartDataPlacement.dll
+D:\WorkShop\Projects\smartdataapartmenttest\SmartDataPlacement\SmartDataPlacement\bin\Debug\netcoreapp2.1\SmartDataPlacement.pdb
+D:\WorkShop\Projects\smartdataapartmenttest\SmartDataPlacement\SmartDataPlacement\obj\Debug\netcoreapp2.1\SmartDataPlacement.csproj.CoreCompileInputs.cache
+D:\WorkShop\Projects\smartdataapartmenttest\SmartDataPlacement\SmartDataPlacement\obj\Debug\netcoreapp2.1\SmartDataPlacement.RazorAssemblyInfo.cache
+D:\WorkShop\Projects\smartdataapartmenttest\SmartDataPlacement\SmartDataPlacement\obj\Debug\netcoreapp2.1\SmartDataPlacement.RazorAssemblyInfo.cs
+D:\WorkShop\Projects\smartdataapartmenttest\SmartDataPlacement\SmartDataPlacement\obj\Debug\netcoreapp2.1\SmartDataPlacement.AssemblyInfoInputs.cache
+D:\WorkShop\Projects\smartdataapartmenttest\SmartDataPlacement\SmartDataPlacement\obj\Debug\netcoreapp2.1\SmartDataPlacement.AssemblyInfo.cs
+D:\WorkShop\Projects\smartdataapartmenttest\SmartDataPlacement\SmartDataPlacement\obj\Debug\netcoreapp2.1\SmartDataPlacement.RazorTargetAssemblyInfo.cache
+D:\WorkShop\Projects\smartdataapartmenttest\SmartDataPlacement\SmartDataPlacement\obj\Debug\netcoreapp2.1\SmartDataPlacement.dll
+D:\WorkShop\Projects\smartdataapartmenttest\SmartDataPlacement\SmartDataPlacement\obj\Debug\netcoreapp2.1\SmartDataPlacement.pdb

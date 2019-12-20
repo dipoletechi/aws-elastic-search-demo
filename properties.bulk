@@ -1,0 +1,8 @@
+{ "index": { "_index": "properties", "_type": "property", "_id": "85630" } }
+{"property":{"propertyID":85630,"name":"Curry Junction","formerName":"","streetAddress":"3549 Curry Lane","city":"Abilene","market":"Abilene","state":"TX","lat":3.240535500000000e+001,"lng":-9.977368000000000e+001}}
+{ "index": { "_index": "properties", "_type": "property", "_id": "85631" } }
+{"property":{"propertyID":85631,"name":"Riatta Ranch","formerName":"","streetAddress":"1111 Musken","city":"Abilene","market":"Abilene","state":"TX","lat":3.245346100000000e+001,"lng":-9.970416200000000e+001}}
+{ "index": { "_index": "properties", "_type": "property", "_id": "85605" } }
+{"property":{"propertyID":85605,"name":"The Eddison","formerName":"The Canyons at 45 West","streetAddress":"4101 SW 45th","city":"Amarillo","market":"Amarillo","state":"TX","lat":3.516365000000000e+001,"lng":-1.018810000000000e+002}}
+{ "index": { "_index": "properties", "_type": "property", "_id": "85607" } }
+{"property":{"propertyID":85607,"name":"Red Oak Ranch","formerName":"","streetAddress":"5601 Bell St.","city":"Amarillo","market":"Amarillo","state":"TX","lat":3.514875100000000e+001,"lng":-1.019007800000000e+002}}
